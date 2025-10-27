@@ -30,7 +30,8 @@ The analysis involves:
 -[Dashboard] <img width="1126" height="639" alt="Screenshot 2025-10-27 210309" src="https://github.com/user-attachments/assets/d37a736b-17dd-447d-91a5-94ebbf8c9a4c" />
 
   ---
--[Confusion Matrix] <img width="719" height="505" alt="Screenshot 2025-10-27 205253" src="https://github.com/user-attachments/assets/2d301748-1759-458b-9cde-69f288012b76" />
+-[Confusion Matrix] 
+<img width="719" height="505" alt="Screenshot 2025-10-27 205253" src="https://github.com/user-attachments/assets/2d301748-1759-458b-9cde-69f288012b76" />
 
 
 ---
