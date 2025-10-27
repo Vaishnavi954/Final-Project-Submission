@@ -27,7 +27,9 @@ The analysis involves:
 
 ##  Screenshots
 
--[Dashboard] <img width="1126" height="639" alt="Screenshot 2025-10-27 210309" src="https://github.com/user-attachments/assets/d37a736b-17dd-447d-91a5-94ebbf8c9a4c" />
+-[Dashboard]
+ ---
+<img width="1126" height="639" alt="Screenshot 2025-10-27 210309" src="https://github.com/user-attachments/assets/d37a736b-17dd-447d-91a5-94ebbf8c9a4c" />
 
   ---
 -[Confusion Matrix] 
